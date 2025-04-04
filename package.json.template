@@ -9,8 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@daily-co/daily-js": "^0.77.0",
-    "@daily-co/daily-react": "^0.22.0",
     "@farcaster/auth-client": "^0.3.0",
     "@farcaster/auth-kit": "^0.6.0",
     "@farcaster/frame-core": "^0.0.22",
@@ -54,7 +52,6 @@
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.5.2",
     "input-otp": "^1.4.2",
-    "jotai": "^2.12.2",
     "lucide-react": "^0.469.0",
     "mipd": "^0.0.7",
     "next": "15.2.4",
